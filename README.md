@@ -1,28 +1,31 @@
-# ✨ Testes / QA
+# Testes / QA
 
-<b>Objetivo:</b> Apresentar Conteudos sobre testes de software
+Repositório dedicado ao estudo de testes de software e garantia de qualidade (QA), cobrindo planejamento de testes, automação com Selenium WebDriver e testes de API com Postman.
 
-<h3 align="left">Planejamento de Testes</h3>
+[← Voltar ao perfil](https://github.com/joycequoos)
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/QA_Praticidade_Planejamento">1 - Modelo em excel para Planejar, Executar, Gerar Evidencias e Relatórios com os resultados </a></p>
-</div> 
+## Planejamento de Testes
 
-<h3 align="left">Selenium WEBDriver</h3>
+| Recurso | Descrição |
+|---|---|
+| [Modelo de Planejamento em Excel](https://github.com/JosiTubaroski/QA_Praticidade_Planejamento) | Modelo para planejar, executar e gerar evidências e relatórios de resultados de testes. |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Test_QA/blob/main/Primeiros_Passos/01_Primeiros_Passos_WebDriver.ipynb">1 - Primeiros Passos: Instações e configuração de ambiente. </a></p>
-</div> 
+## Selenium WebDriver
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Java-Selenium-Webdriver">2 - Modelo de Automação de Testes utilizando Java e Selenium WebDriver </a></p>
-</div> 
+| Recurso | Descrição |
+|---|---|
+| [Primeiros Passos — Instalação e configuração do ambiente](https://github.com/joycequoos/Test_QA/blob/main/Primeiros_Passos/01_Primeiros_Passos_WebDriver.ipynb) | Guia inicial para configurar o ambiente de automação com WebDriver. |
+| [Automação de Testes com Java e Selenium WebDriver](https://github.com/JosiTubaroski/Java-Selenium-Webdriver) | Modelo prático de automação de testes utilizando Java e Selenium. |
 
-<h3 align="left">Testes API com Postman</h3>
+## Testes de API com Postman
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Test_QA/blob/main/Testes_API_Postman/01_Como_Utilizar_Postman_Para_Testar_API%20-%20GitHub.ipynb">1 - Guia básico para o primeiro teste de API com Postman </a></p>
-</div> 
+| Recurso | Descrição |
+|---|---|
+| [Guia básico de teste de API com Postman](https://github.com/joycequoos/Test_QA/blob/main/Testes_API_Postman/01_Como_Utilizar_Postman_Para_Testar_API%20-%20GitHub.ipynb) | Primeiros passos para testar APIs utilizando o Postman. |
+
+## Contato
+
+Sugestões, dúvidas ou colaborações são bem-vindas — abra uma *issue* ou entre em contato pelo perfil do GitHub.
 
 
 

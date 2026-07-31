@@ -15,7 +15,7 @@ Repositório dedicado ao estudo de testes de software e garantia de qualidade (Q
 | Recurso | Descrição |
 |---|---|
 | [Primeiros Passos — Instalação e configuração do ambiente](https://github.com/joycequoos/Test_QA/blob/main/Primeiros_Passos/README.md) | Guia inicial para configurar o ambiente de automação com WebDriver. |
-| [Automação de Testes com Java e Selenium WebDriver](https://github.com/JosiTubaroski/Java-Selenium-Webdriver) | Modelo prático de automação de testes utilizando Java e Selenium. |
+| [Automação de Testes com Java e Selenium WebDriver](https://github.com/joycequoos/Java-Selenium-Webdriver/blob/master/README.md) | Modelo prático/reutilizavel de automação de testes utilizando Java e Selenium. |
 
 ## Testes de API com Postman
 

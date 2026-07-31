@@ -116,4 +116,4 @@ Esse exemplo mostra na prática um erro comum em testes de API: um parâmetro in
 ## Conteúdo Relacionado
 
 - [Test_QA — repositório principal](https://github.com/joycequoos/Test_QA)
-- [Automação de Testes com Selenium WebDriver](https://github.com/joycequoos/Selenium_WebDriver)
+

@@ -8,7 +8,7 @@ Repositório dedicado ao estudo de testes de software e garantia de qualidade (Q
 
 | Recurso | Descrição |
 |---|---|
-| [Modelo de Planejamento em Excel](https://github.com/JosiTubaroski/QA_Praticidade_Planejamento) | Modelo para planejar, executar e gerar evidências e relatórios de resultados de testes. |
+| [Modelo de Planejamento em Excel](https://github.com/joycequoos/QA_Praticidade_Planejamento/blob/main/README.md) | Modelo para planejar, executar e gerar evidências e relatórios de resultados de testes. |
 
 ## Selenium WebDriver
 

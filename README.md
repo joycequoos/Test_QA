@@ -21,7 +21,7 @@ Repositório dedicado ao estudo de testes de software e garantia de qualidade (Q
 
 | Recurso | Descrição |
 |---|---|
-| [Guia básico de teste de API com Postman](https://github.com/joycequoos/Test_QA/blob/main/Testes_API_Postman/01_Como_Utilizar_Postman_Para_Testar_API%20-%20GitHub.ipynb) | Primeiros passos para testar APIs utilizando o Postman. |
+| [Guia básico de teste de API com Postman](https://github.com/joycequoos/Test_QA/blob/main/Testes_API_Postman/README.md) | Primeiros passos para testar APIs utilizando o Postman. |
 
 ## Contato
 

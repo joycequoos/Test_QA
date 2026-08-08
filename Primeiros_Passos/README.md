@@ -1,6 +1,6 @@
 # Automação de Testes com Selenium WebDriver
 
-[← Voltar](https://github.com/joycequoos/Analise_de_Dados/blob/main/README.md)
+[← Voltar](https://github.com/joycequoos/Test_QA/blob/main/README.md)
 
 Manual resumido com as principais informações do curso de Automação de Testes com Selenium WebDriver, utilizando Java, Maven e JUnit.
 
